@@ -13,7 +13,7 @@
 ```{html}
 <script src="/assets/ytdefer.min.js"></script>
 
-<div style="margin:auto;width:380px;height:250px;max-width:95%;" class="ytdefer" data-alt="Podcast Dinle" data-title="Podcast Dinle" data-src="{{ include.id }}"></div>
+<div style="margin:auto;width:380px;height:250px;max-width:95%;" class="ytdefer" data-alt="some-alt-text-here" data-title="some-alt-text-here" data-src="{{ include.id }}"></div>
 
 <script>
 window.addEventListener('load', ytdefer_setup);
