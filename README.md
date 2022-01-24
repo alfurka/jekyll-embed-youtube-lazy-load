@@ -1,6 +1,9 @@
 # Lazy Loading YouTube Videos in Jekyll Posts
 
-`ytdefer.min.js` is taken from https://github.com/groupboard/ytdefer. It is modified for Jekyll posts. 
+A simple method to embed YouTube videos into Jekyll posts. 
+
+- [Blog Post](https://alfurka.github.io/2022-01-23-lazy-loading-youtube-video-jekyll-post/)
+- `ytdefer.min.js` is taken from https://github.com/groupboard/ytdefer. It is modified for Jekyll posts. 
 
 ## How to use?
 
