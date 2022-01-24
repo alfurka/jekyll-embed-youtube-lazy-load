@@ -4,7 +4,7 @@
 
 ## How to use?
 
-1. Download the [ytdefer.min.js](https://github.com/alfurka/jekyll-embed-youtube-lazy-load/blob/main/ytdefer.min.js) file from this repository. 
+1. Download [ytdefer.min.js](https://github.com/alfurka/jekyll-embed-youtube-lazy-load/blob/main/ytdefer.min.js) from this repository. 
 2. Upload `ytdefer.min.js` to your Jekyll repository (server). JavaScripts files are usually contained `assets` folder.  
 3. Create `youtube.html` as follows and save it in `_includes` folder. 
 
