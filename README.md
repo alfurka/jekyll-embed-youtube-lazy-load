@@ -20,7 +20,9 @@ window.addEventListener('load', ytdefer_setup);
 </script>
 ```
 
-4. Add `{% include youtube.html id='YOUTUBE-VIDEO-ID' %}` into your posts where you want to embed the video. Example Jekyll post layout:
+4. Add `{% include youtube.html id='YOUTUBE-VIDEO-ID' %}` into your posts where you want to embed the video. 
+
+Example Jekyll post layout embeding a YouTube video (https://www.youtube.com/watch?v=ZzeF6SducfQ):
 
 ```
 ---
