@@ -20,6 +20,24 @@ window.addEventListener('load', ytdefer_setup);
 </script>
 ```
 
+4. Add `{% include youtube.html id='YOUTUBE-VIDEO-ID' %}` into your posts where you want to embed the video. Example Jekyll post layout:
+
+```
+---
+layout: post
+title: "Example Post"
+---
+....
+CONTENTS 
+....
+
+{% include youtube.html id='ZzeF6SducfQ' %}
+
+....
+CONTENTS 
+....
+```
+
 ## Remarks 
 - Note that you need to change the first line if `ytdefer.min.js` is saved in a different path.
 - You can change `div` style for embedding size/style.
